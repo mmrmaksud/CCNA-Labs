@@ -1,0 +1,21 @@
+Network Fundamentals: Networking, Benefits of Networking, ARPANET, Types of Network, Requirements for network Configuration, Common Networking Device, Layer 2 Switch, Layer 3 Switch, Router, NGFW & IPS, Access Point, Controller, Endpoints, Server, POE, Cisco three layer hierarchy: Two tier, Spine and Leaf, On premises and Cloud, Singlemode & Multimode Fiber
+
+
+Network Fundamentals - Summary
+
+In this module, I learned the basic concepts of computer networking and how different devices communicate with each other.
+
+Topics Covered:
+1. What is Networking – Connecting devices to share data and resources.
+2. Benefits of Networking – Resource sharing, communication, scalability, and security.
+3. ARPANET – The first packet-switching network, the origin of the Internet.
+4. Types of Network – PAN, LAN, MAN, WAN and their coverage areas.
+5. Requirements for Network Configuration – IP addressing, devices, cables, and topology.
+6. Common Networking Devices – Router, Layer 2 & 3 Switch, NGFW, IPS, Access Point, Controller, Server, PoE, etc.
+7. Cisco Three-Layer Hierarchical Model – Access, Distribution, Core layers.
+8. Two-Tier & Spine-Leaf Architecture – Simplified and modern data center designs.
+9. On-Premises vs Cloud Networking – Local vs hosted network infrastructure.
+10. Fiber Optics – Single-mode and Multi-mode fiber, and their use cases.
+
+Key Takeaway:
+Networking is the foundation of all communication systems. Understanding its structure, devices, and design models is the first step to becoming a skilled network engineer.
