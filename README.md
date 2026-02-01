@@ -51,7 +51,7 @@ Each lab demonstrates real-world networking scenarios using **routers, switches,
 | **Module** | **Topic** | **Status** |
 |:--:|:--|:--|
 | **1** | Network Fundamentals | ✅ Completed |
-| **2** | Number System & Basic Configuration | ✅ Completed |
+| **2** | Number System & Router Basic Configuration | ✅ Completed |
 | **3** | IP Addressing | ✅ Completed |
 | **4** | MAC Table | ✅ Completed |
 | **5** | Static Routing | ✅ Completed |
