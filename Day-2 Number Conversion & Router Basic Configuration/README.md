@@ -70,7 +70,7 @@ This helped build a strong understanding of how numerical values are represented
 
 ---
 
-##🧩 Key Takeaway
+## 🧩 Key Takeaway
 
 > Understanding number systems and router basics is essential before moving into IP addressing and routing protocols.
 > This module builds a strong conceptual foundation for upcoming CCNA topics.
