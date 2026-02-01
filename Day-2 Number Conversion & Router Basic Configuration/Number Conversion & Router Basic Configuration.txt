@@ -1,0 +1,28 @@
+Number System & Router Basic Configuration
+
+In this module, I learned two core foundational topics required for understanding networking concepts.
+
+1. Number System Conversion:
+I practiced converting numbers between different number systems used in computing:
+- Binary
+- Decimal
+- Octal
+- Hexadecimal
+
+This helped me understand how numeric values are represented and converted across different formats in digital systems.
+
+2. Router Basic Configuration:
+I learned the fundamental concepts of routers and their basic configuration, including:
+- What a router is and its role in a network
+- Internal hardware components of a router
+- Router interfaces and VSAT
+- Types of routers: Non-modular, Modular and Chassis routers
+- Basic CLI configuration concepts
+  - enable password vs enable secret
+  - Password encryption
+- Understanding RAM and NVRAM
+- Copying configuration from RAM to NVRAM
+- Router configuration, reload and erase operations
+
+Key Takeaway:
+Understanding number systems and router basics is essential before moving into IP addressing and routing protocols. This module built a strong conceptual foundation for upcoming CCNA topics.
