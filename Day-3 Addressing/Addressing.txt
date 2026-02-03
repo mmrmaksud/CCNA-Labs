@@ -1,0 +1,42 @@
+Addressing (MAC Address & IPv4)
+
+In this module, I learned the fundamental concepts of network addressing, which are essential for identifying devices and enabling communication within a network.
+
+Topics Covered:
+
+1. MAC Address:
+- Definition and purpose of MAC addressing
+- Role of MAC address at the data link layer
+
+2. IP Address (IPv4):
+- Structure and properties of an IPv4 address
+- Octets in an IP address
+- Valid range of values in each octet
+
+3. IP Address Classes:
+- Class A, B and C addressing concepts
+- Understanding default subnet masks
+
+4. Network and Host Identification:
+- Network bits and host bits
+- Network address
+- Broadcast address
+- Subnet mask and its function
+
+5. Public and Private IP Addressing:
+- Difference between public and private IP addresses
+- Private IP address ranges
+
+6. IP Address Assignment:
+- Static IP address
+- Dynamic IP address (DHCP concept)
+
+7. IP Services:
+- Purpose and use of IP services
+
+8. IP Versioning:
+- Evolution of IP versions
+- Limitations and shortcomings of IPv4
+
+Key Takeaway:
+Addressing is a core networking concept that explains how devices are uniquely identified on a network. This module built a strong foundation for understanding subnetting and routing in future topics.
