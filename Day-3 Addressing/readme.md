@@ -73,5 +73,3 @@ This module focuses on **network addressing concepts**, which are essential for 
 
 > Addressing is a fundamental networking concept that explains how devices are uniquely identified and how data is delivered to the correct destination.
 > A strong understanding of MAC and IPv4 addressing is critical before moving into subnetting and routing topics.
-├── 03_Addressing_Summary.txt
-└── README.md
