@@ -55,9 +55,9 @@ Each lab demonstrates real-world networking scenarios using **routers, switches,
 | **3** | IP Addressing | ✅ Completed |
 | **4** | MAC Table | ✅ Completed |
 | **5** | Static Routing | ✅ Completed |
-| **6** | Default Route | ✅ Completed |
-| **7** | Subnetting | ✅ Completed |
-| **8** | RIP Routing | ✅ Completed |
+| **6** | RIP Routing | ✅ Completed |
+| **7** | Default Route | ✅ Completed |
+| **8** | Subnetting | ✅ Completed |
 | **9** | ACL (Access Control List) | ✅ Completed |
 | **10** | NAT (Network Address Translation) | ✅ Completed |
 | **11** | OSPF (Open Shortest Path First) | 🔄 In Progress |
