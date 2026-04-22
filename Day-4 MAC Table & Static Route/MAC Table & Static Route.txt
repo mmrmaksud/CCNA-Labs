@@ -1,0 +1,38 @@
+MAC Table & Static Route
+
+In this module, I learned important switching and routing concepts that are essential for understanding how networks forward traffic.
+
+Topics Covered:
+
+1. Types of Switches:
+- Based on OSI Layers:
+  - Layer 2 Switch (works with MAC address)
+  - Layer 3 Switch (supports routing)
+- Based on Manageability:
+  - Unmanaged Switch (plug and play)
+  - Managed Switch (configurable, supports VLAN and security)
+
+2. MAC Address Table:
+- Understanding how switches store MAC addresses
+- Command: show mac address-table
+- Default VLAN (VLAN 1)
+- Static MAC entry configuration
+
+3. Port Security:
+- Used to restrict unauthorized devices
+- Violation modes:
+  - Shutdown (disables port)
+  - Restrict (drops packets and logs)
+  - Protect (drops packets silently)
+
+4. Routing Basics:
+- Introduction to routing concepts
+- Static routing configuration
+
+5. Static Route:
+- Manually defining the path for network traffic
+- Syntax: ip route <destination-network> <subnet-mask> <next-hop-ip>
+- Example: ip route 10.0.0.0 255.0.0.0 172.16.0.2
+
+Key Takeaway:
+This module helped me understand how switches use MAC address tables to forward frames and how static routing is used to manually control traffic flow between networks.
