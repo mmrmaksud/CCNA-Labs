@@ -38,7 +38,7 @@ This module focuses on switching and routing fundamentals, explaining how switch
 - Static MAC entry configuration
 - Command:
   ```
-  mac-address-table static <MAC Address> vlan1 interface fastethernet <port-no.>
+  mac-address-table static <MAC_ADDRESS> vlan <VLAN_ID> interface fastEthernet <PORT>
   ```
 
 ---
